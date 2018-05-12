@@ -1,0 +1,37 @@
+_repo: Warning-from-the-Stars_22545
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, Leo Ramon
+    - Summers, L. R.
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cocking, Ron
+    gutenberg_agent_id: '25399'
+    url: http://www.gutenberg.org/2009/agents/25399
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Warning from the Stars
+url: http://www.gutenberg.org/ebooks/22545
